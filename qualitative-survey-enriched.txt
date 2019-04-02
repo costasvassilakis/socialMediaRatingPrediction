@@ -1,0 +1,1125 @@
+USER   1:  NAME P.A, GENDER F, department M
+Algorithm1: 7 10 7 6 7 8
+Algorithm2: 6 10 7 6 7 5
+Algorithm3: 5 7 7 6 5 3
+USER   2:  NAME G.M, GENDER F, department T
+Algorithm1: 10 8 10 6 8 7
+Algorithm2: 10 7 9 6 8 7
+Algorithm3: 10 5 5 4 5 6
+USER   3:  NAME R.P, GENDER M, department C
+Algorithm1: 8 8 8 6 7 8
+Algorithm2: 7 3 8 6 7 8
+Algorithm3: 2 3 6 6 5 6
+USER   4:  NAME E.G, GENDER M, department P
+Algorithm1: 8 9 9 9 8 7
+Algorithm2: 8 5 9 4 8 7
+Algorithm3: 8 5 7 4 8 5
+USER   5:  NAME M.L, GENDER F, department P
+Algorithm1: 8 7 9 7 8 10
+Algorithm2: 7 7 8 5 6 5
+Algorithm3: 7 7 6 7 6 8
+USER   6:  NAME M.P, GENDER M, department T
+Algorithm1: 9 9 8 10 8 10
+Algorithm2: 8 7 8 5 8 5
+Algorithm3: 8 9 8 2 4 5
+USER   7:  NAME A.P, GENDER M, department C
+Algorithm1: 9 8 10 8 8 8
+Algorithm2: 9 8 4 8 8 8
+Algorithm3: 9 8 1 7 8 8
+USER   8:  NAME K.R, GENDER F, department P
+Algorithm1: 10 10 9 7 8 6
+Algorithm2: 8 6 6 6 8 4
+Algorithm3: 8 4 7 7 4 6
+USER   9:  NAME E.R, GENDER M, department M
+Algorithm1: 8 8 9 8 10 7
+Algorithm2: 8 8 7 5 6 7
+Algorithm3: 7 8 8 3 10 2
+USER  10:  NAME A.K, GENDER M, department M
+Algorithm1: 7 6 9 6 7 7
+Algorithm2: 6 6 4 6 7 6
+Algorithm3: 4 6 4 6 7 6
+USER  11:  NAME M.A, GENDER F, department P
+Algorithm1: 8 7 9 8 7 10
+Algorithm2: 7 7 7 8 6 7
+Algorithm3: 2 6 9 8 6 7
+USER  12:  NAME A.K, GENDER F, department C
+Algorithm1: 9 10 10 8 8 9
+Algorithm2: 9 10 9 8 8 9
+Algorithm3: 6 10 10 8 6 7
+USER  13:  NAME M.E, GENDER F, department P
+Algorithm1: 8 9 9 7 10 10
+Algorithm2: 8 9 9 7 10 10
+Algorithm3: 5 9 9 7 4 6
+USER  14:  NAME J.Y, GENDER F, department M
+Algorithm1: 9 9 6 7 7 10
+Algorithm2: 8 9 6 7 7 9
+Algorithm3: 9 9 6 6 2 10
+USER  15:  NAME K.A, GENDER F, department M
+Algorithm1: 9 9 8 6 9 8
+Algorithm2: 9 6 8 6 9 7
+Algorithm3: 7 9 8 6 3 7
+USER  16:  NAME P.P, GENDER M, department P
+Algorithm1: 8 10 7 9 9 7
+Algorithm2: 8 10 7 6 7 7
+Algorithm3: 8 10 4 8 7 5
+USER  17:  NAME S.P, GENDER M, department T
+Algorithm1: 7 7 8 7 7 10
+Algorithm2: 7 7 8 7 7 6
+Algorithm3: 7 7 7 7 7 5
+USER  18:  NAME T.E, GENDER F, department C
+Algorithm1: 7 7 8 9 8 8
+Algorithm2: 8 7 8 7 7 8
+Algorithm3: 7 5 4 9 6 8
+USER  19:  NAME E.A, GENDER M, department M
+Algorithm1: 7 9 7 6 10 7
+Algorithm2: 7 8 7 5 9 7
+Algorithm3: 7 6 7 6 3 7
+USER  20:  NAME A.N, GENDER F, department C
+Algorithm1: 10 7 9 10 9 9
+Algorithm2: 8 7 9 10 9 8
+Algorithm3: 9 6 9 7 6 9
+USER  21:  NAME T.B, GENDER M, department P
+Algorithm1: 8 9 9 8 9 8
+Algorithm2: 9 9 9 8 8 6
+Algorithm3: 8 7 9 8 5 6
+USER  22:  NAME T.V, GENDER F, department C
+Algorithm1: 9 6 10 8 7 8
+Algorithm2: 7 7 8 8 6 7
+Algorithm3: 6 5 8 3 6 8
+USER  23:  NAME M.A, GENDER F, department T
+Algorithm1: 8 7 6 8 9 8
+Algorithm2: 8 7 6 8 7 6
+Algorithm3: 8 6 6 8 8 8
+USER  24:  NAME S.R, GENDER M, department M
+Algorithm1: 7 6 10 10 9 10
+Algorithm2: 7 6 8 9 8 9
+Algorithm3: 4 3 8 9 8 9
+USER  25:  NAME S.M, GENDER M, department P
+Algorithm1: 10 9 9 9 7 9
+Algorithm2: 10 7 9 9 7 9
+Algorithm3: 8 5 9 9 7 9
+USER  26:  NAME K.Z, GENDER F, department C
+Algorithm1: 6 9 7 9 8 7
+Algorithm2: 6 8 7 9 5 7
+Algorithm3: 4 6 6 9 5 7
+USER  27:  NAME K.N, GENDER M, department M
+Algorithm1: 8 7 7 9 7 9
+Algorithm2: 8 7 7 9 7 9
+Algorithm3: 5 6 6 9 7 3
+USER  28:  NAME M.A, GENDER F, department C
+Algorithm1: 10 7 9 9 9 9
+Algorithm2: 10 7 9 9 5 5
+Algorithm3: 10 7 8 9 4 9
+USER  29:  NAME K.A, GENDER F, department T
+Algorithm1: 7 9 9 10 9 9
+Algorithm2: 8 8 9 9 8 7
+Algorithm3: 6 9 9 7 7 9
+USER  30:  NAME Y.G, GENDER F, department C
+Algorithm1: 10 8 9 6 7 7
+Algorithm2: 10 8 9 6 7 7
+Algorithm3: 6 8 2 6 4 7
+USER  31:  NAME A.A, GENDER F, department T
+Algorithm1: 9 9 8 10 10 8
+Algorithm2: 9 7 8 8 9 8
+Algorithm3: 6 8 8 10 6 7
+USER  32:  NAME H.A, GENDER F, department T
+Algorithm1: 8 8 10 6 10 9
+Algorithm2: 8 7 9 6 7 8
+Algorithm3: 8 6 9 5 10 5
+USER  33:  NAME Y.S, GENDER M, department C
+Algorithm1: 7 7 9 10 8 7
+Algorithm2: 9 7 8 10 8 7
+Algorithm3: 7 6 7 9 8 5
+USER  34:  NAME S.K, GENDER F, department M
+Algorithm1: 10 6 8 10 10 6
+Algorithm2: 10 6 8 10 10 6
+Algorithm3: 10 5 6 9 2 6
+USER  35:  NAME M.A, GENDER M, department P
+Algorithm1: 9 9 6 8 7 10
+Algorithm2: 9 9 6 8 7 10
+Algorithm3: 9 9 5 6 7 10
+USER  36:  NAME A.K, GENDER M, department C
+Algorithm1: 9 7 9 10 10 10
+Algorithm2: 9 6 9 9 8 8
+Algorithm3: 9 3 9 9 9 3
+USER  37:  NAME K.E, GENDER F, department M
+Algorithm1: 9 7 6 10 7 8
+Algorithm2: 8 7 6 8 7 8
+Algorithm3: 9 7 6 10 4 7
+USER  38:  NAME N.T, GENDER M, department T
+Algorithm1: 8 8 8 8 10 9
+Algorithm2: 8 7 7 8 10 9
+Algorithm3: 8 7 8 8 8 6
+USER  39:  NAME A.E, GENDER F, department T
+Algorithm1: 8 9 9 8 8 7
+Algorithm2: 8 9 9 8 8 7
+Algorithm3: 6 6 5 8 8 4
+USER  40:  NAME A.M, GENDER M, department C
+Algorithm1: 7 7 7 9 7 6
+Algorithm2: 7 7 7 9 7 6
+Algorithm3: 7 5 7 6 6 6
+USER  41:  NAME K.A, GENDER F, department P
+Algorithm1: 8 6 7 10 9 10
+Algorithm2: 8 6 7 7 9 10
+Algorithm3: 8 6 6 7 5 8
+USER  42:  NAME S.R, GENDER F, department T
+Algorithm1: 10 7 10 10 9 7
+Algorithm2: 5 7 10 10 9 7
+Algorithm3: 10 7 3 10 8 7
+USER  43:  NAME S.G, GENDER F, department T
+Algorithm1: 9 7 9 9 9 7
+Algorithm2: 9 7 8 7 9 7
+Algorithm3: 7 5 9 9 9 7
+USER  44:  NAME A.S, GENDER F, department C
+Algorithm1: 6 10 8 9 10 7
+Algorithm2: 6 10 8 9 8 4
+Algorithm3: 6 7 8 5 5 4
+USER  45:  NAME T.A, GENDER F, department T
+Algorithm1: 8 7 8 9 7 9
+Algorithm2: 8 7 8 8 7 9
+Algorithm3: 8 6 6 6 3 5
+USER  46:  NAME G.P, GENDER F, department C
+Algorithm1: 8 10 9 9 9 9
+Algorithm2: 7 8 7 7 5 9
+Algorithm3: 8 8 7 6 4 5
+USER  47:  NAME J.N, GENDER M, department M
+Algorithm1: 7 8 8 10 8 10
+Algorithm2: 7 8 7 9 8 10
+Algorithm3: 7 8 7 9 8 8
+USER  48:  NAME A.T, GENDER M, department P
+Algorithm1: 8 8 10 9 7 7
+Algorithm2: 6 8 9 9 7 7
+Algorithm3: 5 7 7 9 7 7
+USER  49:  NAME S.A, GENDER M, department C
+Algorithm1: 9 9 7 7 8 7
+Algorithm2: 7 9 7 7 8 7
+Algorithm3: 5 9 7 5 6 7
+USER  50:  NAME A.S, GENDER F, department M
+Algorithm1: 9 10 8 9 8 8
+Algorithm2: 9 7 5 9 8 7
+Algorithm3: 7 5 8 7 8 4
+USER  51:  NAME A.C, GENDER M, department P
+Algorithm1: 9 10 8 7 7 9
+Algorithm2: 10 9 8 6 7 9
+Algorithm3: 8 8 6 6 7 5
+USER  52:  NAME T.P, GENDER F, department P
+Algorithm1: 10 9 9 9 8 9
+Algorithm2: 10 7 6 9 8 9
+Algorithm3: 7 7 9 9 8 6
+USER  53:  NAME G.S, GENDER F, department P
+Algorithm1: 8 9 8 9 8 10
+Algorithm2: 8 9 8 6 7 9
+Algorithm3: 8 9 4 9 8 7
+USER  54:  NAME E.I, GENDER F, department T
+Algorithm1: 9 8 7 10 7 10
+Algorithm2: 8 8 7 7 7 5
+Algorithm3: 7 8 5 7 6 6
+USER  55:  NAME A.O, GENDER F, department P
+Algorithm1: 7 9 7 9 9 9
+Algorithm2: 7 8 8 8 7 8
+Algorithm3: 7 7 7 6 5 9
+USER  56:  NAME G.A, GENDER M, department T
+Algorithm1: 7 9 8 8 8 7
+Algorithm2: 7 9 8 8 8 7
+Algorithm3: 7 3 8 8 8 5
+USER  57:  NAME P.T, GENDER M, department T
+Algorithm1: 9 10 8 8 10 9
+Algorithm2: 9 8 5 8 10 5
+Algorithm3: 9 8 5 6 5 9
+USER  58:  NAME M.P, GENDER M, department T
+Algorithm1: 7 7 7 7 7 8
+Algorithm2: 4 7 7 7 7 8
+Algorithm3: 4 3 5 6 2 2
+USER  59:  NAME R.C, GENDER F, department M
+Algorithm1: 10 8 10 10 7 8
+Algorithm2: 10 8 10 9 7 8
+Algorithm3: 10 8 5 3 7 3
+USER  60:  NAME R.F, GENDER F, department M
+Algorithm1: 8 10 8 10 10 7
+Algorithm2: 8 10 8 10 10 7
+Algorithm3: 6 8 7 7 7 7
+USER  61:  NAME E.G, GENDER M, department C
+Algorithm1: 10 10 8 10 8 8
+Algorithm2: 6 10 8 10 8 8
+Algorithm3: 6 7 8 10 5 8
+USER  62:  NAME S.F, GENDER F, department C
+Algorithm1: 8 9 7 10 9 8
+Algorithm2: 8 9 7 10 9 8
+Algorithm3: 6 9 7 8 9 4
+USER  63:  NAME S.V, GENDER F, department M
+Algorithm1: 10 10 10 10 9 7
+Algorithm2: 9 7 10 10 9 9
+Algorithm3: 9 7 7 10 4 7
+USER  64:  NAME G.A, GENDER F, department M
+Algorithm1: 6 10 9 10 7 7
+Algorithm2: 6 10 9 10 7 7
+Algorithm3: 6 10 6 6 7 7
+USER  65:  NAME M.R, GENDER M, department C
+Algorithm1: 10 7 10 8 10 10
+Algorithm2: 7 7 10 8 7 8
+Algorithm3: 7 7 10 5 5 6
+USER  66:  NAME S.A, GENDER M, department T
+Algorithm1: 8 9 9 7 9 10
+Algorithm2: 8 9 6 7 9 10
+Algorithm3: 8 9 6 7 6 7
+USER  67:  NAME V.M, GENDER F, department M
+Algorithm1: 9 9 8 7 7 8
+Algorithm2: 9 9 5 7 7 8
+Algorithm3: 9 7 6 4 6 8
+USER  68:  NAME A.N, GENDER M, department T
+Algorithm1: 7 10 8 9 7 9
+Algorithm2: 7 10 8 9 7 9
+Algorithm3: 4 6 4 8 7 3
+USER  69:  NAME A.K, GENDER F, department C
+Algorithm1: 6 10 10 8 8 10
+Algorithm2: 6 10 10 8 6 7
+Algorithm3: 3 9 7 8 6 9
+USER  70:  NAME R.A, GENDER M, department C
+Algorithm1: 7 7 8 10 10 7
+Algorithm2: 7 7 8 8 9 7
+Algorithm3: 4 6 7 7 6 7
+USER  71:  NAME A.G, GENDER F, department T
+Algorithm1: 8 8 7 10 7 7
+Algorithm2: 8 8 7 10 7 7
+Algorithm3: 5 6 7 7 7 7
+USER  72:  NAME E.P, GENDER M, department C
+Algorithm1: 10 9 9 7 7 9
+Algorithm2: 10 8 9 7 7 5
+Algorithm3: 3 9 7 6 4 9
+USER  73:  NAME A.E, GENDER M, department M
+Algorithm1: 9 8 7 9 9 8
+Algorithm2: 9 8 7 9 7 8
+Algorithm3: 3 6 6 4 2 5
+USER  74:  NAME F.R, GENDER M, department C
+Algorithm1: 9 9 10 8 9 7
+Algorithm2: 7 5 9 8 8 7
+Algorithm3: 4 9 10 7 8 7
+USER  75:  NAME A.K, GENDER M, department M
+Algorithm1: 9 7 7 6 10 10
+Algorithm2: 8 8 7 6 9 10
+Algorithm3: 5 7 7 6 6 7
+USER  76:  NAME G.M, GENDER M, department P
+Algorithm1: 9 10 10 9 7 7
+Algorithm2: 8 9 10 9 7 6
+Algorithm3: 8 9 7 7 7 6
+USER  77:  NAME G.A, GENDER F, department M
+Algorithm1: 8 7 10 7 10 9
+Algorithm2: 8 7 10 7 10 9
+Algorithm3: 5 7 8 7 10 9
+USER  78:  NAME M.M, GENDER M, department M
+Algorithm1: 9 8 9 7 8 8
+Algorithm2: 9 8 8 7 8 8
+Algorithm3: 9 8 8 7 6 8
+USER  79:  NAME M.A, GENDER M, department C
+Algorithm1: 8 9 7 9 7 7
+Algorithm2: 8 7 7 9 7 7
+Algorithm3: 6 5 7 4 4 7
+USER  80:  NAME E.S, GENDER M, department T
+Algorithm1: 6 8 7 10 7 10
+Algorithm2: 5 8 7 6 7 7
+Algorithm3: 5 8 7 10 7 8
+USER  81:  NAME M.M, GENDER F, department P
+Algorithm1: 7 6 10 10 8 10
+Algorithm2: 7 6 8 10 8 10
+Algorithm3: 7 6 8 10 8 8
+USER  82:  NAME M.S, GENDER F, department P
+Algorithm1: 10 8 10 9 10 8
+Algorithm2: 10 8 9 7 10 8
+Algorithm3: 9 8 4 5 6 8
+USER  83:  NAME E.D, GENDER F, department P
+Algorithm1: 9 7 10 10 9 10
+Algorithm2: 9 7 9 8 9 5
+Algorithm3: 6 7 3 10 9 4
+USER  84:  NAME A.P, GENDER M, department T
+Algorithm1: 10 9 10 10 9 7
+Algorithm2: 10 9 10 7 9 7
+Algorithm3: 10 9 9 10 4 7
+USER  85:  NAME D.A, GENDER F, department P
+Algorithm1: 9 10 7 9 7 9
+Algorithm2: 8 10 7 9 6 8
+Algorithm3: 9 6 6 9 6 4
+USER  86:  NAME E.A, GENDER M, department M
+Algorithm1: 8 8 7 8 10 7
+Algorithm2: 8 7 7 8 10 5
+Algorithm3: 5 8 7 6 10 7
+USER  87:  NAME D.A, GENDER F, department T
+Algorithm1: 7 10 8 7 10 9
+Algorithm2: 7 10 8 7 10 9
+Algorithm3: 7 10 8 7 7 9
+USER  88:  NAME G.A, GENDER M, department M
+Algorithm1: 7 8 8 10 10 7
+Algorithm2: 7 8 5 8 10 7
+Algorithm3: 6 7 5 8 7 7
+USER  89:  NAME S.P, GENDER F, department M
+Algorithm1: 10 8 7 10 8 9
+Algorithm2: 9 7 7 9 8 10
+Algorithm3: 9 7 7 9 8 7
+USER  90:  NAME Z.M, GENDER M, department T
+Algorithm1: 10 8 8 8 8 10
+Algorithm2: 6 8 8 8 8 10
+Algorithm3: 4 6 8 6 8 7
+USER  91:  NAME L.A, GENDER M, department T
+Algorithm1: 7 8 10 9 7 10
+Algorithm2: 7 8 10 9 7 10
+Algorithm3: 7 4 10 5 7 10
+USER  92:  NAME G.S, GENDER F, department P
+Algorithm1: 9 10 7 7 6 9
+Algorithm2: 9 10 4 7 6 9
+Algorithm3: 6 7 7 6 6 7
+USER  93:  NAME K.F, GENDER M, department M
+Algorithm1: 9 7 10 10 10 7
+Algorithm2: 9 7 10 9 8 7
+Algorithm3: 9 6 3 10 7 7
+USER  94:  NAME N.R, GENDER M, department P
+Algorithm1: 10 9 7 9 10 9
+Algorithm2: 10 9 7 9 10 5
+Algorithm3: 8 8 7 9 10 3
+USER  95:  NAME A.R, GENDER M, department M
+Algorithm1: 8 10 10 6 8 8
+Algorithm2: 8 10 10 6 7 8
+Algorithm3: 8 9 7 6 4 8
+USER  96:  NAME N.E, GENDER F, department M
+Algorithm1: 8 10 8 10 8 10
+Algorithm2: 8 8 8 9 7 10
+Algorithm3: 8 8 8 10 7 8
+USER  97:  NAME A.S, GENDER F, department C
+Algorithm1: 8 8 10 8 7 9
+Algorithm2: 8 8 10 8 7 9
+Algorithm3: 8 5 5 4 3 6
+USER  98:  NAME G.P, GENDER M, department C
+Algorithm1: 9 7 9 10 8 7
+Algorithm2: 9 7 6 10 8 7
+Algorithm3: 9 5 6 9 8 7
+USER  99:  NAME N.A, GENDER M, department P
+Algorithm1: 6 6 8 10 8 9
+Algorithm2: 6 6 8 10 8 9
+Algorithm3: 6 5 5 6 8 7
+USER 100:  NAME A.D, GENDER M, department C
+Algorithm1: 9 7 6 10 8 8
+Algorithm2: 9 7 6 5 8 8
+Algorithm3: 9 7 6 3 3 8
+USER 101:  NAME P.K, GENDER F, department T
+Algorithm1: 9 9 8 9 9 10
+Algorithm2: 9 6 8 9 4 9
+Algorithm3: 6 9 7 9 4 10
+USER 102:  NAME S.M, GENDER M, department M
+Algorithm1: 9 8 10 7 9 8
+Algorithm2: 8 8 7 7 9 7
+Algorithm3: 3 8 4 4 5 8
+USER 103:  NAME C.P, GENDER M, department P
+Algorithm1: 6 9 9 10 8 9
+Algorithm2: 6 9 8 10 8 7
+Algorithm3: 6 9 6 10 8 5
+USER 104:  NAME S.K, GENDER F, department P
+Algorithm1: 8 9 8 10 9 7
+Algorithm2: 7 9 8 7 7 7
+Algorithm3: 8 9 4 6 9 6
+USER 105:  NAME E.G, GENDER F, department C
+Algorithm1: 7 10 6 8 10 8
+Algorithm2: 7 7 6 8 10 8
+Algorithm3: 7 10 6 5 10 8
+USER 106:  NAME A.F, GENDER F, department T
+Algorithm1: 9 9 7 10 9 10
+Algorithm2: 9 5 6 7 9 10
+Algorithm3: 5 6 6 10 6 10
+USER 107:  NAME K.V, GENDER M, department M
+Algorithm1: 7 6 10 9 7 10
+Algorithm2: 7 6 10 9 7 9
+Algorithm3: 7 4 8 5 7 8
+USER 108:  NAME R.R, GENDER M, department T
+Algorithm1: 10 6 9 8 10 7
+Algorithm2: 5 6 9 8 10 7
+Algorithm3: 5 6 8 5 10 7
+USER 109:  NAME D.V, GENDER F, department M
+Algorithm1: 10 7 8 10 8 9
+Algorithm2: 9 7 8 6 8 6
+Algorithm3: 7 7 5 7 8 9
+USER 110:  NAME K.S, GENDER F, department P
+Algorithm1: 9 8 9 10 9 8
+Algorithm2: 9 8 9 10 8 8
+Algorithm3: 5 5 8 7 4 8
+USER 111:  NAME A.E, GENDER F, department M
+Algorithm1: 10 9 9 10 7 7
+Algorithm2: 10 9 9 9 7 7
+Algorithm3: 6 9 9 8 4 7
+USER 112:  NAME B.T, GENDER F, department P
+Algorithm1: 7 7 6 10 10 10
+Algorithm2: 7 7 6 10 7 7
+Algorithm3: 7 5 5 10 7 7
+USER 113:  NAME C.M, GENDER M, department C
+Algorithm1: 7 9 8 7 9 9
+Algorithm2: 7 9 7 7 9 7
+Algorithm3: 7 5 7 7 8 7
+USER 114:  NAME M.G, GENDER M, department C
+Algorithm1: 8 8 8 9 7 10
+Algorithm2: 8 8 5 9 6 10
+Algorithm3: 8 5 7 7 5 10
+USER 115:  NAME R.D, GENDER M, department M
+Algorithm1: 7 9 10 9 8 8
+Algorithm2: 9 6 7 6 6 8
+Algorithm3: 3 9 5 5 6 8
+USER 116:  NAME K.A, GENDER M, department M
+Algorithm1: 8 9 8 8 8 9
+Algorithm2: 7 7 8 9 8 7
+Algorithm3: 7 6 8 6 7 7
+USER 117:  NAME N.M, GENDER F, department T
+Algorithm1: 7 8 8 9 8 9
+Algorithm2: 7 6 8 7 8 8
+Algorithm3: 7 8 8 4 6 9
+USER 118:  NAME N.A, GENDER M, department M
+Algorithm1: 10 10 10 8 8 8
+Algorithm2: 10 10 8 8 7 8
+Algorithm3: 8 10 8 8 8 5
+USER 119:  NAME H.M, GENDER M, department T
+Algorithm1: 7 7 8 7 8 8
+Algorithm2: 7 7 7 7 8 8
+Algorithm3: 7 4 5 6 5 7
+USER 120:  NAME A.M, GENDER M, department M
+Algorithm1: 10 9 6 9 9 8
+Algorithm2: 10 9 6 9 8 8
+Algorithm3: 10 4 4 7 4 8
+USER 121:  NAME S.S, GENDER F, department M
+Algorithm1: 10 10 10 8 7 7
+Algorithm2: 9 9 5 8 7 7
+Algorithm3: 4 2 5 8 4 7
+USER 122:  NAME E.D, GENDER F, department C
+Algorithm1: 6 8 9 8 9 7
+Algorithm2: 6 8 9 7 8 7
+Algorithm3: 6 8 3 8 9 7
+USER 123:  NAME K.E, GENDER F, department M
+Algorithm1: 9 8 9 6 9 9
+Algorithm2: 8 5 9 6 7 7
+Algorithm3: 5 8 9 6 7 9
+USER 124:  NAME A.P, GENDER F, department M
+Algorithm1: 10 6 6 10 10 10
+Algorithm2: 6 6 6 7 10 10
+Algorithm3: 10 4 2 7 10 8
+USER 125:  NAME K.S, GENDER F, department C
+Algorithm1: 6 10 9 9 9 10
+Algorithm2: 6 10 9 9 9 10
+Algorithm3: 3 8 9 9 7 10
+USER 126:  NAME T.S, GENDER M, department M
+Algorithm1: 8 9 10 10 10 7
+Algorithm2: 7 9 8 9 10 7
+Algorithm3: 7 9 5 8 7 6
+USER 127:  NAME E.A, GENDER F, department T
+Algorithm1: 10 7 10 7 9 9
+Algorithm2: 6 7 7 7 9 8
+Algorithm3: 6 7 7 7 9 9
+USER 128:  NAME K.T, GENDER F, department M
+Algorithm1: 8 10 9 9 6 9
+Algorithm2: 8 10 9 9 6 8
+Algorithm3: 8 10 8 9 4 9
+USER 129:  NAME G.A, GENDER M, department M
+Algorithm1: 9 10 7 7 9 6
+Algorithm2: 4 10 7 7 8 6
+Algorithm3: 2 9 7 7 7 6
+USER 130:  NAME J.K, GENDER M, department M
+Algorithm1: 9 8 10 8 9 7
+Algorithm2: 8 8 10 8 9 7
+Algorithm3: 3 2 7 8 9 4
+USER 131:  NAME P.M, GENDER F, department P
+Algorithm1: 8 9 7 9 7 7
+Algorithm2: 7 9 7 9 7 7
+Algorithm3: 7 7 7 9 7 5
+USER 132:  NAME S.C, GENDER F, department P
+Algorithm1: 9 8 7 9 8 10
+Algorithm2: 9 7 7 9 7 8
+Algorithm3: 9 8 7 4 8 7
+USER 133:  NAME N.S, GENDER M, department T
+Algorithm1: 10 9 6 8 7 10
+Algorithm2: 8 9 6 8 7 8
+Algorithm3: 7 5 5 8 7 3
+USER 134:  NAME M.E, GENDER M, department P
+Algorithm1: 9 10 8 8 8 9
+Algorithm2: 9 10 8 8 6 9
+Algorithm3: 7 8 6 8 6 9
+USER 135:  NAME R.H, GENDER F, department T
+Algorithm1: 10 10 7 8 9 10
+Algorithm2: 10 10 5 8 9 10
+Algorithm3: 10 10 7 8 3 10
+USER 136:  NAME P.S, GENDER F, department T
+Algorithm1: 9 9 7 10 8 10
+Algorithm2: 9 9 8 9 8 10
+Algorithm3: 6 9 7 5 8 9
+USER 137:  NAME A.L, GENDER M, department M
+Algorithm1: 9 8 7 9 8 7
+Algorithm2: 9 8 7 9 5 7
+Algorithm3: 9 8 7 9 5 7
+USER 138:  NAME S.M, GENDER M, department M
+Algorithm1: 9 9 8 7 9 10
+Algorithm2: 8 9 7 7 9 10
+Algorithm3: 9 9 8 7 9 3
+USER 139:  NAME K.F, GENDER F, department T
+Algorithm1: 8 6 9 7 7 8
+Algorithm2: 8 6 9 7 7 7
+Algorithm3: 8 6 3 7 7 8
+USER 140:  NAME A.B, GENDER F, department M
+Algorithm1: 6 8 7 8 8 10
+Algorithm2: 6 8 6 8 8 10
+Algorithm3: 6 4 7 8 8 10
+USER 141:  NAME P.M, GENDER F, department T
+Algorithm1: 9 10 7 8 8 7
+Algorithm2: 8 10 8 8 8 6
+Algorithm3: 6 8 7 8 8 7
+USER 142:  NAME O.B, GENDER M, department P
+Algorithm1: 6 9 10 7 10 10
+Algorithm2: 6 9 10 7 6 7
+Algorithm3: 3 9 9 7 5 7
+USER 143:  NAME I.E, GENDER F, department M
+Algorithm1: 7 7 10 9 8 10
+Algorithm2: 7 7 10 9 8 10
+Algorithm3: 7 3 5 9 8 2
+USER 144:  NAME M.J, GENDER F, department P
+Algorithm1: 9 9 8 8 9 7
+Algorithm2: 9 5 8 8 9 7
+Algorithm3: 9 5 6 6 9 7
+USER 145:  NAME S.K, GENDER F, department C
+Algorithm1: 8 9 10 9 10 6
+Algorithm2: 8 8 10 9 10 6
+Algorithm3: 2 7 6 5 9 6
+USER 146:  NAME E.N, GENDER M, department P
+Algorithm1: 8 8 10 10 10 8
+Algorithm2: 8 8 6 9 7 8
+Algorithm3: 8 8 6 5 8 8
+USER 147:  NAME O.A, GENDER F, department C
+Algorithm1: 9 8 7 6 6 8
+Algorithm2: 8 8 6 6 6 8
+Algorithm3: 7 4 7 6 6 4
+USER 148:  NAME Y.M, GENDER M, department M
+Algorithm1: 9 9 8 10 8 6
+Algorithm2: 7 8 8 10 8 6
+Algorithm3: 9 9 8 10 5 6
+USER 149:  NAME A.I, GENDER F, department P
+Algorithm1: 9 9 6 7 9 10
+Algorithm2: 9 9 6 7 9 7
+Algorithm3: 9 9 6 6 9 10
+USER 150:  NAME S.S, GENDER M, department C
+Algorithm1: 10 10 8 9 8 8
+Algorithm2: 8 9 6 9 8 8
+Algorithm3: 10 5 7 4 8 4
+USER 151:  NAME A.M, GENDER F, department C
+Algorithm1: 8 6 7 9 10 9
+Algorithm2: 6 6 7 9 9 9
+Algorithm3: 2 6 7 6 10 6
+USER 152:  NAME M.S, GENDER M, department M
+Algorithm1: 8 9 8 8 10 8
+Algorithm2: 8 9 8 8 7 8
+Algorithm3: 8 7 8 7 5 8
+USER 153:  NAME P.R, GENDER M, department T
+Algorithm1: 9 9 10 10 8 8
+Algorithm2: 9 9 7 10 8 8
+Algorithm3: 7 6 7 3 7 3
+USER 154:  NAME M.A, GENDER F, department M
+Algorithm1: 9 7 6 9 9 10
+Algorithm2: 8 7 6 9 9 9
+Algorithm3: 9 7 6 6 9 9
+USER 155:  NAME A.M, GENDER M, department P
+Algorithm1: 6 6 9 10 7 10
+Algorithm2: 6 6 6 9 7 10
+Algorithm3: 6 6 9 9 7 10
+USER 156:  NAME A.E, GENDER F, department T
+Algorithm1: 10 7 9 9 7 6
+Algorithm2: 8 7 5 9 7 6
+Algorithm3: 10 7 9 5 4 6
+USER 157:  NAME E.A, GENDER F, department C
+Algorithm1: 9 9 7 6 8 10
+Algorithm2: 7 9 7 6 8 10
+Algorithm3: 7 6 6 5 8 7
+USER 158:  NAME B.G, GENDER M, department P
+Algorithm1: 9 8 7 7 8 10
+Algorithm2: 9 8 7 7 8 10
+Algorithm3: 8 6 6 7 7 8
+USER 159:  NAME S.K, GENDER M, department P
+Algorithm1: 7 10 8 7 8 7
+Algorithm2: 7 9 7 5 6 7
+Algorithm3: 7 9 6 5 6 6
+USER 160:  NAME E.C, GENDER M, department C
+Algorithm1: 10 8 7 6 10 10
+Algorithm2: 10 8 7 6 8 10
+Algorithm3: 7 2 4 5 10 5
+USER 161:  NAME P.C, GENDER F, department C
+Algorithm1: 9 10 8 9 8 10
+Algorithm2: 9 10 8 9 8 7
+Algorithm3: 8 6 6 9 7 10
+USER 162:  NAME K.V, GENDER M, department P
+Algorithm1: 9 10 9 7 8 8
+Algorithm2: 6 10 9 7 7 8
+Algorithm3: 8 6 9 7 7 5
+USER 163:  NAME A.R, GENDER F, department P
+Algorithm1: 7 8 8 8 9 7
+Algorithm2: 7 7 8 8 8 8
+Algorithm3: 6 8 8 5 7 5
+USER 164:  NAME M.S, GENDER F, department C
+Algorithm1: 9 8 8 7 10 9
+Algorithm2: 6 8 8 6 10 8
+Algorithm3: 6 8 6 6 9 8
+USER 165:  NAME E.P, GENDER F, department C
+Algorithm1: 8 8 9 9 9 9
+Algorithm2: 8 8 9 8 9 9
+Algorithm3: 5 8 4 9 9 6
+USER 166:  NAME P.A, GENDER F, department C
+Algorithm1: 10 10 10 10 7 9
+Algorithm2: 6 9 10 8 7 9
+Algorithm3: 6 8 10 7 7 9
+USER 167:  NAME P.A, GENDER M, department M
+Algorithm1: 7 8 10 9 7 10
+Algorithm2: 7 8 6 9 6 10
+Algorithm3: 7 6 6 9 6 10
+USER 168:  NAME A.M, GENDER M, department T
+Algorithm1: 9 7 8 9 8 7
+Algorithm2: 9 7 8 9 8 7
+Algorithm3: 7 7 8 6 8 7
+USER 169:  NAME S.T, GENDER F, department M
+Algorithm1: 8 6 9 10 8 9
+Algorithm2: 7 6 6 10 8 8
+Algorithm3: 5 6 5 9 7 7
+USER 170:  NAME R.P, GENDER F, department T
+Algorithm1: 10 6 10 9 10 7
+Algorithm2: 10 6 10 9 8 6
+Algorithm3: 6 6 7 9 6 7
+USER 171:  NAME P.P, GENDER F, department P
+Algorithm1: 9 7 7 7 10 10
+Algorithm2: 9 7 7 7 6 8
+Algorithm3: 8 7 7 5 6 7
+USER 172:  NAME A.E, GENDER M, department T
+Algorithm1: 9 9 9 9 10 10
+Algorithm2: 5 9 6 9 10 8
+Algorithm3: 5 9 5 8 10 8
+USER 173:  NAME R.M, GENDER F, department M
+Algorithm1: 9 9 8 9 10 10
+Algorithm2: 8 8 7 9 6 6
+Algorithm3: 6 9 5 7 5 5
+USER 174:  NAME T.M, GENDER M, department T
+Algorithm1: 8 10 10 8 9 7
+Algorithm2: 5 7 9 8 5 6
+Algorithm3: 5 5 6 6 5 5
+USER 175:  NAME E.N, GENDER M, department M
+Algorithm1: 9 7 9 10 7 8
+Algorithm2: 6 5 6 10 7 4
+Algorithm3: 8 4 6 7 5 4
+USER 176:  NAME A.K, GENDER F, department P
+Algorithm1: 7 9 10 8 9 7
+Algorithm2: 8 9 5 9 6 9
+Algorithm3: 7 6 8 7 4 5
+USER 177:  NAME E.A, GENDER F, department P
+Algorithm1: 8 9 7 8 9 9
+Algorithm2: 9 7 4 7 6 8
+Algorithm3: 2 8 2 3 5 3
+USER 178:  NAME D.B, GENDER M, department C
+Algorithm1: 10 8 8 8 7 10
+Algorithm2: 8 10 8 10 5 6
+Algorithm3: 7 7 6 6 3 5
+USER 179:  NAME M.M, GENDER M, department T
+Algorithm1: 9 6 10 9 8 8
+Algorithm2: 9 7 5 10 9 8
+Algorithm3: 9 5 4 8 5 5
+USER 180:  NAME M.D, GENDER F, department C
+Algorithm1: 8 10 8 9 8 9
+Algorithm2: 9 6 7 6 8 7
+Algorithm3: 6 5 6 6 5 3
+USER 181:  NAME C.A, GENDER M, department M
+Algorithm1: 8 10 6 8 9 9
+Algorithm2: 4 10 6 9 8 6
+Algorithm3: 3 6 6 6 7 7
+USER 182:  NAME E.K, GENDER M, department P
+Algorithm1: 8 8 10 7 9 8
+Algorithm2: 7 7 10 6 7 6
+Algorithm3: 5 2 8 6 8 3
+USER 183:  NAME A.T, GENDER M, department C
+Algorithm1: 8 6 7 7 9 8
+Algorithm2: 4 10 9 6 9 8
+Algorithm3: 5 5 6 9 6 6
+USER 184:  NAME R.A, GENDER F, department P
+Algorithm1: 8 9 9 7 7 10
+Algorithm2: 9 4 8 6 6 9
+Algorithm3: 8 2 6 6 3 5
+USER 185:  NAME P.R, GENDER F, department C
+Algorithm1: 7 9 8 7 7 10
+Algorithm2: 7 8 4 7 6 9
+Algorithm3: 7 6 5 4 2 4
+USER 186:  NAME R.L, GENDER M, department C
+Algorithm1: 8 8 8 8 7 7
+Algorithm2: 8 10 5 7 6 7
+Algorithm3: 4 2 4 3 5 1
+USER 187:  NAME R.T, GENDER F, department C
+Algorithm1: 8 8 8 9 8 7
+Algorithm2: 4 7 4 9 7 8
+Algorithm3: 5 2 4 6 4 6
+USER 188:  NAME C.A, GENDER M, department C
+Algorithm1: 9 7 7 7 8 7
+Algorithm2: 9 8 6 5 5 6
+Algorithm3: 2 7 6 5 3 3
+USER 189:  NAME R.F, GENDER F, department P
+Algorithm1: 9 8 7 7 8 7
+Algorithm2: 5 5 10 8 10 5
+Algorithm3: 5 5 6 6 6 6
+USER 190:  NAME P.X, GENDER M, department C
+Algorithm1: 8 9 9 7 10 8
+Algorithm2: 7 10 4 8 10 4
+Algorithm3: 8 9 5 10 5 7
+USER 191:  NAME M.E, GENDER F, department M
+Algorithm1: 9 9 8 7 8 6
+Algorithm2: 7 7 7 4 5 7
+Algorithm3: 4 5 9 6 4 7
+USER 192:  NAME K.P, GENDER M, department P
+Algorithm1: 9 8 7 6 8 7
+Algorithm2: 7 7 4 7 6 4
+Algorithm3: 2 6 3 5 5 8
+USER 193:  NAME V.Z, GENDER M, department M
+Algorithm1: 8 8 8 10 7 9
+Algorithm2: 7 8 8 6 5 4
+Algorithm3: 5 1 5 9 4 3
+USER 194:  NAME Z.E, GENDER M, department C
+Algorithm1: 10 8 7 9 7 8
+Algorithm2: 10 5 5 9 4 7
+Algorithm3: 4 7 4 4 5 4
+USER 195:  NAME O.J, GENDER M, department P
+Algorithm1: 8 9 8 8 8 8
+Algorithm2: 6 7 6 5 8 5
+Algorithm3: 7 1 5 7 6 6
+USER 196:  NAME P.O, GENDER M, department C
+Algorithm1: 7 10 8 10 8 7
+Algorithm2: 7 10 8 10 8 4
+Algorithm3: 2 3 2 5 7 4
+USER 197:  NAME R.K, GENDER M, department M
+Algorithm1: 10 8 9 7 7 8
+Algorithm2: 10 8 9 6 5 8
+Algorithm3: 2 8 9 1 2 3
+USER 198:  NAME A.R, GENDER M, department M
+Algorithm1: 8 8 10 8 8 7
+Algorithm2: 8 7 10 7 5 5
+Algorithm3: 8 9 9 1 1 1
+USER 199:  NAME X.H, GENDER F, department P
+Algorithm1: 8 6 8 9 9 8
+Algorithm2: 4 10 8 8 4 5
+Algorithm3: 3 6 2 9 3 4
+USER 200:  NAME T.T, GENDER F, department T
+Algorithm1: 10 8 7 7 7 9
+Algorithm2: 10 8 5 7 5 6
+Algorithm3: 10 8 5 7 7 8
+USER 201:  NAME G.R, GENDER F, department C
+Algorithm1: 8 7 10 8 9 7
+Algorithm2: 7 4 6 4 8 10
+Algorithm3: 4 6 4 5 8 5
+USER 202:  NAME P.V, GENDER M, department C
+Algorithm1: 10 9 7 7 9 8
+Algorithm2: 10 9 7 5 8 8
+Algorithm3: 6 5 4 5 7 6
+USER 203:  NAME A.K, GENDER F, department T
+Algorithm1: 7 6 8 7 10 7
+Algorithm2: 6 5 8 7 7 4
+Algorithm3: 2 5 8 6 9 5
+USER 204:  NAME G.I, GENDER F, department C
+Algorithm1: 8 10 9 8 6 7
+Algorithm2: 7 10 7 5 4 6
+Algorithm3: 6 7 5 8 5 5
+USER 205:  NAME K.G, GENDER F, department C
+Algorithm1: 7 8 8 8 7 9
+Algorithm2: 4 7 7 6 7 10
+Algorithm3: 2 3 5 6 5 8
+USER 206:  NAME E.K, GENDER M, department C
+Algorithm1: 9 10 8 8 8 9
+Algorithm2: 6 10 9 6 7 7
+Algorithm3: 2 6 2 5 7 3
+USER 207:  NAME N.P, GENDER F, department C
+Algorithm1: 9 7 7 6 7 9
+Algorithm2: 6 7 10 6 4 10
+Algorithm3: 9 3 6 3 4 5
+USER 208:  NAME E.E, GENDER M, department M
+Algorithm1: 7 9 8 6 8 6
+Algorithm2: 9 5 7 6 6 5
+Algorithm3: 6 7 5 2 4 1
+USER 209:  NAME G.A, GENDER F, department M
+Algorithm1: 8 7 6 8 7 10
+Algorithm2: 4 7 7 8 7 10
+Algorithm3: 7 5 1 1 8 4
+USER 210:  NAME A.H, GENDER M, department P
+Algorithm1: 10 10 8 9 9 8
+Algorithm2: 10 10 5 5 8 6
+Algorithm3: 4 7 4 3 4 6
+USER 211:  NAME T.J, GENDER F, department C
+Algorithm1: 8 7 8 9 8 7
+Algorithm2: 7 6 7 4 9 9
+Algorithm3: 6 8 1 7 3 9
+USER 212:  NAME M.G, GENDER M, department C
+Algorithm1: 10 10 8 10 8 9
+Algorithm2: 6 7 6 9 7 4
+Algorithm3: 9 8 7 9 4 7
+USER 213:  NAME P.T, GENDER F, department P
+Algorithm1: 8 8 8 7 10 8
+Algorithm2: 8 10 10 6 10 9
+Algorithm3: 8 1 2 3 4 9
+USER 214:  NAME S.A, GENDER F, department C
+Algorithm1: 8 8 8 10 9 10
+Algorithm2: 5 8 7 10 8 10
+Algorithm3: 6 4 9 4 1 5
+USER 215:  NAME E.T, GENDER F, department M
+Algorithm1: 9 8 8 8 9 8
+Algorithm2: 7 10 6 4 6 7
+Algorithm3: 7 3 2 8 5 6
+USER 216:  NAME R.A, GENDER M, department P
+Algorithm1: 7 6 7 6 8 7
+Algorithm2: 5 5 6 6 10 8
+Algorithm3: 4 4 7 5 6 6
+USER 217:  NAME A.K, GENDER M, department T
+Algorithm1: 7 9 7 9 7 8
+Algorithm2: 4 5 9 9 7 10
+Algorithm3: 5 9 7 2 2 7
+USER 218:  NAME K.V, GENDER F, department C
+Algorithm1: 6 8 8 8 8 8
+Algorithm2: 6 6 10 4 5 5
+Algorithm3: 2 6 6 5 8 6
+USER 219:  NAME D.O, GENDER M, department P
+Algorithm1: 9 8 7 8 10 6
+Algorithm2: 8 7 10 8 10 6
+Algorithm3: 6 8 10 5 9 6
+USER 220:  NAME R.B, GENDER F, department T
+Algorithm1: 9 7 7 9 6 8
+Algorithm2: 10 10 10 10 8 9
+Algorithm3: 7 9 9 2 5 6
+USER 221:  NAME A.P, GENDER M, department C
+Algorithm1: 8 7 9 7 7 9
+Algorithm2: 7 9 5 10 5 5
+Algorithm3: 4 6 4 7 7 8
+USER 222:  NAME E.X, GENDER M, department C
+Algorithm1: 8 8 8 9 8 6
+Algorithm2: 10 4 9 6 8 4
+Algorithm3: 9 9 8 8 6 5
+USER 223:  NAME G.A, GENDER M, department P
+Algorithm1: 7 7 9 9 9 7
+Algorithm2: 7 6 9 8 7 10
+Algorithm3: 5 2 9 9 3 2
+USER 224:  NAME R.P, GENDER F, department C
+Algorithm1: 9 8 10 8 8 8
+Algorithm2: 10 6 9 9 10 8
+Algorithm3: 7 7 6 7 6 2
+USER 225:  NAME R.T, GENDER F, department T
+Algorithm1: 8 7 8 7 8 9
+Algorithm2: 7 9 4 10 5 10
+Algorithm3: 9 4 6 8 2 2
+USER 226:  NAME K.A, GENDER F, department C
+Algorithm1: 6 7 9 10 7 8
+Algorithm2: 7 4 6 10 6 10
+Algorithm3: 8 9 8 8 7 3
+USER 227:  NAME Z.A, GENDER F, department T
+Algorithm1: 6 8 7 10 7 7
+Algorithm2: 4 4 5 10 7 5
+Algorithm3: 4 2 1 3 7 6
+USER 228:  NAME A.A, GENDER F, department C
+Algorithm1: 8 8 8 9 7 9
+Algorithm2: 9 4 7 5 4 8
+Algorithm3: 6 9 8 9 4 5
+USER 229:  NAME R.M, GENDER M, department P
+Algorithm1: 7 7 9 8 8 8
+Algorithm2: 7 7 6 5 4 4
+Algorithm3: 7 7 9 8 7 5
+USER 230:  NAME A.M, GENDER F, department C
+Algorithm1: 9 9 8 8 10 9
+Algorithm2: 4 4 6 8 6 9
+Algorithm3: 4 2 6 5 4 9
+USER 231:  NAME A.P, GENDER F, department P
+Algorithm1: 7 7 9 8 8 9
+Algorithm2: 7 5 8 9 6 8
+Algorithm3: 5 3 3 8 8 6
+USER 232:  NAME K.E, GENDER M, department C
+Algorithm1: 7 8 7 9 7 6
+Algorithm2: 7 7 7 8 8 7
+Algorithm3: 6 4 1 6 1 6
+USER 233:  NAME Y.N, GENDER F, department P
+Algorithm1: 7 10 9 6 7 8
+Algorithm2: 5 10 6 6 5 5
+Algorithm3: 2 6 5 5 7 8
+USER 234:  NAME M.A, GENDER F, department M
+Algorithm1: 8 7 8 7 9 9
+Algorithm2: 7 4 5 6 9 5
+Algorithm3: 5 4 6 7 3 6
+USER 235:  NAME V.S, GENDER M, department C
+Algorithm1: 8 9 9 8 9 7
+Algorithm2: 8 9 6 5 5 7
+Algorithm3: 8 1 2 8 5 7
+USER 236:  NAME P.R, GENDER F, department M
+Algorithm1: 8 8 9 8 7 7
+Algorithm2: 8 4 8 8 7 4
+Algorithm3: 3 4 2 8 7 3
+USER 237:  NAME S.E, GENDER M, department C
+Algorithm1: 10 8 8 7 7 7
+Algorithm2: 10 8 9 5 7 7
+Algorithm3: 6 5 4 8 4 3
+USER 238:  NAME P.T, GENDER F, department C
+Algorithm1: 10 7 9 7 8 7
+Algorithm2: 10 7 7 7 4 5
+Algorithm3: 10 2 8 4 5 5
+USER 239:  NAME I.A, GENDER F, department T
+Algorithm1: 9 8 8 7 9 7
+Algorithm2: 9 8 10 7 9 6
+Algorithm3: 6 8 4 8 7 6
+USER 240:  NAME S.P, GENDER M, department M
+Algorithm1: 6 7 8 8 6 6
+Algorithm2: 8 5 9 4 8 6
+Algorithm3: 5 3 6 7 2 8
+USER 241:  NAME F.L, GENDER M, department T
+Algorithm1: 6 7 9 9 7 6
+Algorithm2: 7 6 7 8 8 10
+Algorithm3: 3 5 4 8 7 6
+USER 242:  NAME R.P, GENDER M, department C
+Algorithm1: 9 8 7 7 8 6
+Algorithm2: 9 9 7 4 7 5
+Algorithm3: 5 8 7 4 9 5
+USER 243:  NAME P.T, GENDER M, department T
+Algorithm1: 8 7 10 7 7 7
+Algorithm2: 5 6 9 4 8 6
+Algorithm3: 5 4 6 5 8 9
+USER 244:  NAME K.K, GENDER F, department P
+Algorithm1: 7 6 7 9 8 8
+Algorithm2: 8 5 10 8 4 7
+Algorithm3: 7 5 5 6 3 2
+USER 245:  NAME M.M, GENDER M, department C
+Algorithm1: 10 10 9 9 7 8
+Algorithm2: 10 10 6 7 6 5
+Algorithm3: 5 7 6 6 3 8
+USER 246:  NAME P.P, GENDER F, department T
+Algorithm1: 7 7 8 9 7 5
+Algorithm2: 5 7 4 9 5 4
+Algorithm3: 5 7 6 5 4 5
+USER 247:  NAME G.N, GENDER F, department C
+Algorithm1: 9 10 9 8 7 7
+Algorithm2: 9 10 8 7 5 5
+Algorithm3: 5 5 5 6 4 3
+USER 248:  NAME P.Y, GENDER F, department C
+Algorithm1: 10 7 9 10 8 9
+Algorithm2: 10 7 10 10 8 9
+Algorithm3: 9 8 2 6 7 7
+USER 249:  NAME S.C, GENDER F, department C
+Algorithm1: 7 10 9 8 8 7
+Algorithm2: 5 10 9 8 4 9
+Algorithm3: 5 3 3 5 4 6
+USER 250:  NAME E.K, GENDER F, department P
+Algorithm1: 8 8 8 9 7 9
+Algorithm2: 8 6 6 9 4 5
+Algorithm3: 7 6 4 6 2 8
+USER 251:  NAME N.R, GENDER M, department C
+Algorithm1: 6 6 8 10 7 10
+Algorithm2: 4 6 9 10 6 8
+Algorithm3: 6 6 8 8 5 8
+USER 252:  NAME P.A, GENDER F, department C
+Algorithm1: 8 7 9 9 7 8
+Algorithm2: 8 9 4 9 4 4
+Algorithm3: 6 4 3 7 5 5
+USER 253:  NAME S.L, GENDER M, department T
+Algorithm1: 9 8 8 9 7 10
+Algorithm2: 9 5 6 9 6 10
+Algorithm3: 5 7 8 8 5 4
+USER 254:  NAME M.M, GENDER F, department C
+Algorithm1: 8 7 7 7 8 7
+Algorithm2: 6 10 8 8 4 7
+Algorithm3: 2 6 7 6 8 5
+USER 255:  NAME N.P, GENDER F, department P
+Algorithm1: 9 8 7 10 9 8
+Algorithm2: 6 5 6 10 6 8
+Algorithm3: 8 4 2 9 6 8
+USER 256:  NAME K.T, GENDER M, department P
+Algorithm1: 8 9 8 9 7 9
+Algorithm2: 5 9 4 4 6 9
+Algorithm3: 5 9 6 5 5 7
+USER 257:  NAME E.A, GENDER F, department C
+Algorithm1: 7 9 9 9 8 9
+Algorithm2: 4 10 8 9 5 6
+Algorithm3: 5 7 6 5 6 8
+USER 258:  NAME A.R, GENDER F, department M
+Algorithm1: 7 7 9 8 8 8
+Algorithm2: 7 6 7 10 8 6
+Algorithm3: 5 5 9 6 8 8
+USER 259:  NAME A.L, GENDER F, department C
+Algorithm1: 8 10 7 7 7 7
+Algorithm2: 9 10 4 7 6 4
+Algorithm3: 2 6 3 2 7 6
+USER 260:  NAME A.J, GENDER F, department C
+Algorithm1: 9 8 7 8 8 10
+Algorithm2: 8 10 6 8 5 10
+Algorithm3: 4 7 4 8 4 6
+USER 261:  NAME K.N, GENDER F, department C
+Algorithm1: 7 7 9 7 7 8
+Algorithm2: 4 7 9 10 9 9
+Algorithm3: 3 6 6 5 7 7
+USER 262:  NAME X.S, GENDER F, department M
+Algorithm1: 7 7 8 8 8 9
+Algorithm2: 7 6 8 7 6 10
+Algorithm3: 3 5 6 2 5 4
+USER 263:  NAME G.K, GENDER M, department P
+Algorithm1: 9 7 8 7 9 6
+Algorithm2: 9 4 6 4 8 4
+Algorithm3: 9 8 8 8 3 2
+USER 264:  NAME R.A, GENDER M, department C
+Algorithm1: 6 9 8 8 8 8
+Algorithm2: 5 4 5 7 7 8
+Algorithm3: 5 8 6 7 8 6
+USER 265:  NAME A.L, GENDER M, department P
+Algorithm1: 8 9 8 6 8 10
+Algorithm2: 7 9 6 6 8 10
+Algorithm3: 6 5 4 6 4 6
+USER 266:  NAME E.M, GENDER F, department C
+Algorithm1: 9 8 10 7 9 8
+Algorithm2: 9 8 6 6 8 8
+Algorithm3: 7 8 2 6 9 7
+USER 267:  NAME A.S, GENDER F, department P
+Algorithm1: 8 8 6 8 8 8
+Algorithm2: 4 10 4 5 5 7
+Algorithm3: 8 6 6 4 6 7
+USER 268:  NAME A.A, GENDER F, department T
+Algorithm1: 9 8 7 8 9 9
+Algorithm2: 7 9 6 5 7 8
+Algorithm3: 7 5 6 2 9 6
+USER 269:  NAME M.O, GENDER M, department M
+Algorithm1: 8 7 9 7 8 9
+Algorithm2: 4 7 10 9 9 8
+Algorithm3: 5 6 6 5 5 6
+USER 270:  NAME K.M, GENDER M, department M
+Algorithm1: 7 9 8 8 7 7
+Algorithm2: 7 10 4 10 6 7
+Algorithm3: 5 8 8 7 6 5
+USER 271:  NAME J.S, GENDER M, department P
+Algorithm1: 9 9 7 8 8 10
+Algorithm2: 9 10 4 8 7 10
+Algorithm3: 7 9 5 4 7 7
+USER 272:  NAME R.K, GENDER M, department C
+Algorithm1: 7 8 7 8 8 9
+Algorithm2: 7 5 7 6 8 9
+Algorithm3: 6 8 8 3 6 9
+USER 273:  NAME V.S, GENDER F, department C
+Algorithm1: 8 9 8 9 8 8
+Algorithm2: 9 8 8 8 7 8
+Algorithm3: 6 7 5 5 6 4
+USER 274:  NAME O.B, GENDER M, department P
+Algorithm1: 6 9 7 9 8 6
+Algorithm2: 7 8 10 5 8 8
+Algorithm3: 9 6 7 4 7 7
+USER 275:  NAME O.O, GENDER F, department C
+Algorithm1: 9 10 9 7 9 8
+Algorithm2: 6 10 9 5 8 8
+Algorithm3: 8 10 4 4 8 8
+USER 276:  NAME M.A, GENDER M, department T
+Algorithm1: 7 9 6 8 9 9
+Algorithm2: 10 9 7 6 7 10
+Algorithm3: 9 6 8 5 6 7
+USER 277:  NAME S.M, GENDER F, department C
+Algorithm1: 7 10 10 8 7 9
+Algorithm2: 6 10 10 7 7 9
+Algorithm3: 5 5 9 4 7 6
+USER 278:  NAME B.S, GENDER F, department T
+Algorithm1: 8 8 7 9 8 9
+Algorithm2: 7 8 7 9 8 8
+Algorithm3: 8 5 6 9 3 4
+USER 279:  NAME A.A, GENDER F, department M
+Algorithm1: 9 6 7 7 8 9
+Algorithm2: 8 6 8 10 8 9
+Algorithm3: 6 7 6 9 8 9
+USER 280:  NAME I.P, GENDER F, department C
+Algorithm1: 10 9 8 9 7 7
+Algorithm2: 9 9 8 7 6 7
+Algorithm3: 7 8 7 7 6 6
+USER 281:  NAME S.N, GENDER F, department P
+Algorithm1: 9 9 9 8 8 9
+Algorithm2: 9 9 8 8 8 9
+Algorithm3: 9 7 5 8 5 6
+AVGS 8.5, 7.8, 6.8
